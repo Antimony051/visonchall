@@ -1,6 +1,8 @@
-Packages needed to run the model:
-
 torch
 torchvision
-scikit-learn
 matplotlib
+scikit-learn
+numpy
+opencv-python
+heic2png
+pillow
