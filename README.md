@@ -1,5 +1,4 @@
 # README
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Folder Structure](#folder-structure)
@@ -15,7 +14,7 @@
     - [Running Evaluation](#running-evaluation)
 - [Output](#output)
   - [Visuals](#visuals)
-
+-[model Downlaod link](https://raw.githubusercontent.com/Antimony051/visonchall/refs/heads/main/output/model.pth)
 ---
 ## Project Overview
 The aim of this project is to develop a machine learning model that classifies images of buildings at Mississippi State University. Using a ResNet-50 architecture, the model predicts which building is shown in a given image. The project implements image data augmentation and mixed-precision training to optimize performance on limited computational resources.
